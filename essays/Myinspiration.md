@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: My Journey To Programming
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2020-01-20
 labels:
   - Engineering
 ---
