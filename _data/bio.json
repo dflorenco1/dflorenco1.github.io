@@ -76,8 +76,7 @@
       "gpa": "",
       "courses": [
       ]
-    }
-  ]
+    },
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.A.",
@@ -117,7 +116,7 @@
       "summary": "Selling various types of Christmas Trees",
       "highlights": [
       ]
-    }
+    },
       "company": "Point Loma Nazarene University",
       "position": "On-Campus Shuttle Driver and Maintenance",
       "website": "https://www.pointloma.edu/offices/human-resources/student-employment",
@@ -127,7 +126,6 @@
       "highlights": [
       ]
     }
-  ]
   ],
   "volunteer": [
     {
@@ -138,19 +136,6 @@
       "endDate": "2019-12-10",
       "summary": "Helping elementary students with reading comprehension and writing skills",
       "highlights": [
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
