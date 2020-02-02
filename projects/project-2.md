@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/midpac.png
+title: Michael and Joanne Wood Scholarship
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
