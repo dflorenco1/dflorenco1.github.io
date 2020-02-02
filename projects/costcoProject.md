@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/costco.jpg
 title: Costco Employment
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
