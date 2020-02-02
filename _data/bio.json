@@ -24,19 +24,17 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Software engineering",
       "keywords": [
       ]
     },
     {
-      "name": "brad yamashita",
+      "name": "Web development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Entrepreneurship",
       "keywords": [
       ]
     }
@@ -50,8 +48,6 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
@@ -59,10 +55,8 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "g++"
       ]
     }
   ],
