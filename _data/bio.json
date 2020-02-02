@@ -68,10 +68,20 @@
   ],
   "education": [
     {
+      "institution": "Point Loma Nazarene University, San Diego, CA",
+      "area": "Computer Science",
+      "studyType": "B.A.",
+      "startDate": "2016-08-23",
+      "endDate": "2018-05-05",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+  ]
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2021)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "studyType": "B.A.",
+      "startDate": "2018-08-24",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -80,41 +90,54 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Costco Wholesale",
+      "position": "Front End Assistant",
+      "website": "https://www.costco.com/",
+      "startDate": "2018-10-15",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Provide member service, sales, and stocking",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Mid Pacific Institue",
+      "position": "Swim Instructor",
+      "website": "https://www.midpac.edu/",
+      "startDate": "2016-06-01",
+      "endDate": "2018-08-15",
+      "summary": "Getting children ages through 4-15 comfortable in the water, summer program only",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    },
+    "company": "Pumpkin City's Christmas Trees",
+      "position": "Tree Salesman",
+      "website": "https://pumpkincity.com/christmas-trees/",
+      "startDate": "2018-11-04",
+      "endDate": "2018-12-20",
+      "summary": "Selling various types of Christmas Trees",
+      "highlights": [
       ]
     }
+      "company": "Point Loma Nazarene University",
+      "position": "On-Campus Shuttle Driver and Maintenance",
+      "website": "https://www.pointloma.edu/offices/human-resources/student-employment",
+      "startDate": "2017-01-20",
+      "endDate": "2018-05-05",
+      "summary": "Driving students around campus and performing basic maintenance on campus vehicles",
+      "highlights": [
+      ]
+    }
+  ]
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Costco Employee Reading Program",
+      "website": "https://www.costco.com/sustainability-communities.html",
+      "position": "Volunteer Reader",
+      "startDate": "2019-10-20",
+      "endDate": "2019-12-10",
+      "summary": "Helping elementary students with reading comprehension and writing skills",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
@@ -133,16 +156,26 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Michael and Joanne Wood Scholarship",
+      "date": "2013-2016",
+      "awarder": "Mid-Pacific Institute",
+      "summary": "Scholarships awarded to a student who demonstrates substantial financial need, academic ability, strong moral character, anticipated-active participation in our extracurricular programs, and showcases a positive attitude."
     },
     {
-      "title": "First place",
+      "title": "First Team All ILH Basketball Selection",
       "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "awarder": "Interscholastic League of Honolulu",
+      "summary": "Top basketball players in the ILH."
+    }
+      "title": "All State Honorable Mentions Basketball Selection",
+      "date": "2015",
+      "awarder": "The State of Hawaii",
+      "summary": "Top basketball players in Hawaii."
+    }
+      "title": "Germey Robinson's Senior Classic Basketball Selection",
+      "date": "2016",
+      "awarder": "Germey Robinson",
+      "summary": "Top senior basketball players in the Interscholastic League of Honolulu and Oahu Interscholastic Association ."
     }
   ],
   "references": [
