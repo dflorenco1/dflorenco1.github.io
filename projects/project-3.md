@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ics.png
+image: images/ics2.png
 title: C Database
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
