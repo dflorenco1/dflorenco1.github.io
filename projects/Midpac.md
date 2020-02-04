@@ -5,7 +5,7 @@ image: images/midpac.png
 title: Michael and Joanne Wood Scholarship
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2012-08-12
 labels:
   - Javascript
   - Meteor
