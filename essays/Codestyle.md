@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Checks Over Stripes
+title: Style Stickler
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-13
 labels:
