@@ -9,7 +9,8 @@ labels:
   - Coding Standards
   - Checkstyle
 ---
-People are expected to speak using proper grammar and practice correct punctuation in writing. Why should programming be any different? Coding standards is a great way to create code that is easy to read and understandable. This is highly beneficial when working with multiple people and large projects. Keeping track of the code and recognizing its outcome is a lot more effortless when it is written in a neat and concise way. ESLint is a powerful tool that, if followed, ensures code to be organized and universally accepted. 
+
+  People are expected to speak using proper grammar and practice correct punctuation in writing. Why should programming be any different? Coding standards is a great way to create code that is easy to read and understandable. This is highly beneficial when working with multiple people and large projects. Keeping track of the code and recognizing its outcome is a lot more effortless when it is written in a neat and concise way. ESLint is a powerful tool that, if followed, ensures code to be organized and universally accepted. 
 
 I do not think there are any negatives that come with practicing appropriate coding styles. In the work environment communication is key. It is crucial to be able to portray thoughts and ideas in a way that can be grasped by others. Coding is no different. Most of the time, programmers are part of teams and collaborate closely with each other, so writing code that can be easily followed makes work more efficient and less time consuming. As a software engineering student, there have been countless amounts of times where I am lost looking over past assignments and code. I often don’t recognize why I wrote something the way I did or why I used a particular function. This could have been avoided by using proper coding styles. 
 
