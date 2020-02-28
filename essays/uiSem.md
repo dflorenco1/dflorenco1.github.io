@@ -3,9 +3,9 @@ layout: essay
 type: essay
 title: Style Styckler
 # All dates must be YYYY-MM-DD format!
-date: 2020-02-13
+date: 2020-02-27
 labels:
-  - ESLint
-  - Coding Standards
-  - Checkstyle
+  - Semantic UI
+  - HTML
+  - CSS
 ---
