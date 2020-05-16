@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title: Software Reflection
+title: More Than Programming
 # All dates must be YYYY-MM-DD format!
-date: 2020-02-13
+date: 2020-05-15
 labels:
-  - ESLint
-  - Coding Standards
-  - Checkstyle
+  - Development Environment
+  - Project Management
+  - Semantic UI
 ---
 Prior to taking this class, I was expecting to learn about HTML, CSS, and the foundations of becoming a professional web developer. All of these things were achieved, but what I did not know is that this course had even more to offer. Development environments, user interface frameworks, and project management are all areas I developed and gained more knowledge in as a student programmer. Programming is more than learning and language and applying it as you feel, it is about communicating and creating something that people can use and benefit from. 
 
