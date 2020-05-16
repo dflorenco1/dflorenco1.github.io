@@ -9,7 +9,7 @@ date: 2018-10-15
 labels:
   - Employment
 
-summary: My experiences as a Costco Wholesale employee.
+summary: A safe, regulated, and reliable trading platform made by students for students.
 ---
 
 <img class="ui image" src="../images/profilePic.png.png">
