@@ -20,4 +20,7 @@ Our goal was to create a platform that UH students could use to safely buy and s
 
 For the project I created the about us page, some of the profile and item pages, a lot of overall styling, and buttons with web functions. I was not much involved with the database aspect and storing and saving user information. Most of the contributions to the application were front end based and some back end adjustments were made by me. However, this project gave me confidence in being able to create an organized professional website. Communication skills and managing tasks among others were greatly developed. Working together, voicing opinions and concerns was just as important to the programming aspect of the project. 
 
+This experience has taught me how to work in groups to achieve a common goal. Communication and scheduling is key to having a successful group of programmers. Since we were working together, constant talking was needed to organize and divide tasks. I feel I am a lot more experienced as a programmer and working with others. 
+
+
 <img class="ui image" src="../images/bottomPage.png">
