@@ -7,7 +7,9 @@ permalink: projects/retail
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-15
 labels:
-  - Employment
+  - Web Development
+  - React
+  - Semantic UI
 
 summary: A safe, regulated, and reliable trading platform made by students for students.
 ---
