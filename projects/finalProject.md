@@ -11,3 +11,5 @@ labels:
 
 summary: My experiences as a Costco Wholesale employee.
 ---
+
+<img class="ui image" src="../images/profilePic.png.png">
