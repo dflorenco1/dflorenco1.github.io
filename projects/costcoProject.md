@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/costco.jpg
 title: Costco Employment
-permalink: projects/micromouse
+permalink: projects/costco
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-15
 labels:

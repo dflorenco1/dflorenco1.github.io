@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/midpac.png
 title: Michael and Joanne Wood Scholarship
-permalink: projects/vacay
+permalink: projects/midpac
 # All dates must be YYYY-MM-DD format!
 date: 2012-08-12
 labels:
